@@ -1,0 +1,3 @@
+F:/Desktop/c++/BigInt/cmake-build-debug/CMakeFiles/BigInt.dir
+F:/Desktop/c++/BigInt/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Desktop/c++/BigInt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

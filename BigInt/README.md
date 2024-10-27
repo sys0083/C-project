@@ -19,9 +19,9 @@ C++14
     
     ├── BigInt.h            // 函数声明
     
-    ├── BigInt.cpp		    // 函数定义
+    ├── BigInt.cpp		 // 函数定义
     
-    ├── BigInt.cpp		    // 可执行文件，进行测试
+    ├── BigInt.cpp		 // 可执行文件，进行测试
 
 # 设计思路
 

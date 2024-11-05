@@ -1,0 +1,3 @@
+F:/Desktop/c++/Cpp_project/String-based_IO_operations/cmake-build-debug/CMakeFiles/String_based_IO_operations.dir
+F:/Desktop/c++/Cpp_project/String-based_IO_operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Desktop/c++/Cpp_project/String-based_IO_operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
